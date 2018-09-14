@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XPD:PROJECT xmlns:XPD="http://www.staruml.com" version="1">
+<XPD:HEADER>
+<XPD:SUBUNITS>
+<XPD:UNIT owner="VWceynYHxEe9dRt9F3AlJgAA" index="0">RetailStore.unt</XPD:UNIT>
+</XPD:SUBUNITS>
+<XPD:PROFILES>
+<XPD:PROFILE>Java</XPD:PROFILE>
+<XPD:PROFILE>UMLStandard</XPD:PROFILE>
+<XPD:PROFILE>CSharp</XPD:PROFILE>
+<XPD:PROFILE>EJB</XPD:PROFILE>
+</XPD:PROFILES>
+</XPD:HEADER>
+<XPD:BODY>
+<XPD:OBJ name="DocumentElement" type="UMLProject" guid="VWceynYHxEe9dRt9F3AlJgAA">
+<XPD:ATTR name="Title" type="string">Shop</XPD:ATTR>
+</XPD:OBJ>
+</XPD:BODY>
+</XPD:PROJECT>
